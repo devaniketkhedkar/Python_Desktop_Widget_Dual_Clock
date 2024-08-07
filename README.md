@@ -12,3 +12,5 @@ Desktop Dual Clock Widget using Python
 - **Embrace the Code** : Dive into the world of coding with this hands-on project and enjoy the journey of learning and creating.
 
 - Happy coding! 😊
+- Preview
+![image](https://github.com/user-attachments/assets/b5768898-9e9c-432a-a593-f753ecb0455c)
