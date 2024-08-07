@@ -7,6 +7,7 @@ Desktop Dual Clock Widget using Python
 - **Tkinter: The Pythonic Way** : The widget is built using Python's 'Tkinter' library, which is a standard GUI toolkit for Python.
 - **Preparation is Key** : Ensure Python is installed on your system along with the 'pytz' module for timezone conversions.
 - Install 'pytz' via pip with the command: `pip install pytz`.
+- I am Using DS-DIGIT.TTF Font to display Date and Time to get the feel of Digital clock. Install It before running code. You can find the font file in repository.
 - **Execution is Simple** : Save the script with a '.py' extension and run it. A window will pop up, displaying two clocks: one set to IST (Indian Standard Time) and the other to Central Time (Houston, Texas, USA).
 - **Embrace the Code** : Dive into the world of coding with this hands-on project and enjoy the journey of learning and creating.
 
